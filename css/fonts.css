@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "GB";
+    src: url(../fonts/gilroy-bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "GM";
+    src: url(../fonts/gilroy-medium.ttf) format('truetype');
+}
